@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 SaumyaDabhi
 
 2. *What is the URL of your remote GitHub repo (created through Mr. Kennedy's exercises)?*
-git@github.com:odu-cs625-datavis/spring22-hw1-SaumyaDabhi.git
+git@github.com:SaumyaDabhi/git-workshop.git
 
 ## R
 
