@@ -1,6 +1,6 @@
 ---
-title: "HW 1, CS 625, Fall 2021"
-author: "Dr. Faryaneh Poursardar"
+title: "HW 1, CS 625, Spring 2022"
+author: "Saumya Dabhi"
 date: Jan 20, 2022
 output: rmarkdown::github_document
 ---
@@ -12,8 +12,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Git, GitHub
 
 1. *What is your GitHub username?*
+SaumyaDabhi
 
 2. *What is the URL of your remote GitHub repo (created through Mr. Kennedy's exercises)?*
+git@github.com:odu-cs625-datavis/spring22-hw1-SaumyaDabhi.git
 
 ## R
 
